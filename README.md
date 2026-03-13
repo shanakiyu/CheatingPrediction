@@ -1,4 +1,4 @@
-# 🎬 Predicting Cheating in Film Plots
+# Predicting Cheating in Film Plots
 
 **Authors:** Yacine Touileb & Nina Vivier Barte  
 **Date:** November 2024
@@ -37,7 +37,7 @@ The dataset (`Letterboxd_annotations`) contains film entries with the following 
 | `txtCheat` | Target label — `1` = cheating/jealousy, `0` = none |
 | `txtMarr`, `txtDivorce`, etc. | Other romantic situation annotations |
 
-> ⚠️ The dataset is **imbalanced**: films without cheating are significantly more common than films with cheating, which motivated the use of recall as the primary evaluation metric.
+> ⚠️ The dataset is **imbalanced**: films without cheating are significantly more common than films with cheating, which motivated the use of recall as the primary evaluation metric. ⚠️
 
 ---
 
